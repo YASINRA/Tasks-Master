@@ -473,7 +473,3 @@ Note: Replace examples URI used in Vargrant/Homestead configuration file and use
 ```
 
 ---
-
-## Enjoy
-
-###### ~ **Jeremy**
